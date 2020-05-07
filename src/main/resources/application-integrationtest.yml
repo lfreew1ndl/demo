@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/artosh
+    url: jdbc:postgresql://localhost:5432/artosh #change to test database
     username: postgres
     password: root
   jpa:
